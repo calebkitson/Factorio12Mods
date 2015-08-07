@@ -1,0 +1,268 @@
+{
+    "mods": [
+        {
+            "name": "base",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_automatization",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_core",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_energy",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_logistic",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_mining",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_resources",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_trains",
+            "enabled": "true"
+        },
+        {
+            "name": "5dim_transport",
+            "enabled": "true"
+        },
+        {
+            "name": "AdvancedEquipment",
+            "enabled": "true"
+        },
+        {
+            "name": "Aircraft",
+            "enabled": "true"
+        },
+        {
+            "name": "AlienWall",
+            "enabled": "true"
+        },
+        {
+            "name": "BigDrill",
+            "enabled": "true"
+        },
+        {
+            "name": "CORE-DyTech-Core",
+            "enabled": "true"
+        },
+        {
+            "name": "Compression Chests",
+            "enabled": "true"
+        },
+        {
+            "name": "Crafted Artifacts",
+            "enabled": "true"
+        },
+        {
+            "name": "Cursed-PI",
+            "enabled": "true"
+        },
+        {
+            "name": "CyberChest",
+            "enabled": "true"
+        },
+        {
+            "name": "DynamicExpansion",
+            "enabled": "true"
+        },
+        {
+            "name": "Electric Furnaces",
+            "enabled": "true"
+        },
+        {
+            "name": "Equalizer_Chests",
+            "enabled": "true"
+        },
+        {
+            "name": "EvoGUI",
+            "enabled": "true"
+        },
+        {
+            "name": "Evolution",
+            "enabled": "true"
+        },
+        {
+            "name": "Expanded_Robot_Tech",
+            "enabled": "true"
+        },
+        {
+            "name": "Explosive Termites",
+            "enabled": "true"
+        },
+        {
+            "name": "ExtraFluidStorage",
+            "enabled": "true"
+        },
+        {
+            "name": "Landfill",
+            "enabled": "true"
+        },
+        {
+            "name": "Larger Inventory",
+            "enabled": "true"
+        },
+        {
+            "name": "LogicBelt",
+            "enabled": "true"
+        },
+        {
+            "name": "LongElectricBoiler",
+            "enabled": "true"
+        },
+        {
+            "name": "MAIN-DyTech-Machine",
+            "enabled": "true"
+        },
+        {
+            "name": "MAIN-DyTech-Power",
+            "enabled": "true"
+        },
+        {
+            "name": "MAIN-DyTech-War",
+            "enabled": "true"
+        },
+        {
+            "name": "Natural-Evolution",
+            "enabled": "true"
+        },
+        {
+            "name": "OilSteamBoiler",
+            "enabled": "true"
+        },
+        {
+            "name": "Q2Weapons",
+            "enabled": "true"
+        },
+        {
+            "name": "SupremeWarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "Treefarm-AC",
+            "enabled": "true"
+        },
+        {
+            "name": "Treefarm-Lite",
+            "enabled": "true"
+        },
+        {
+            "name": "UpGrade",
+            "enabled": "true"
+        },
+        {
+            "name": "Yuoki",
+            "enabled": "true"
+        },
+        {
+            "name": "air-filtering",
+            "enabled": "true"
+        },
+        {
+            "name": "bobassembly",
+            "enabled": "true"
+        },
+        {
+            "name": "bobelecoveride",
+            "enabled": "true"
+        },
+        {
+            "name": "bobenemies",
+            "enabled": "true"
+        },
+        {
+            "name": "boblogistics",
+            "enabled": "true"
+        },
+        {
+            "name": "bobmining",
+            "enabled": "true"
+        },
+        {
+            "name": "bobores",
+            "enabled": "true"
+        },
+        {
+            "name": "bobplates",
+            "enabled": "true"
+        },
+        {
+            "name": "bobpower",
+            "enabled": "true"
+        },
+        {
+            "name": "bobtech",
+            "enabled": "true"
+        },
+        {
+            "name": "bobwarfare",
+            "enabled": "true"
+        },
+        {
+            "name": "dark-matter-replicators",
+            "enabled": "true"
+        },
+        {
+            "name": "endless-resources",
+            "enabled": "true"
+        },
+        {
+            "name": "expanded_tools",
+            "enabled": "true"
+        },
+        {
+            "name": "filter_inserter",
+            "enabled": "true"
+        },
+        {
+            "name": "greenhouse",
+            "enabled": "true"
+        },
+        {
+            "name": "mocombat",
+            "enabled": "true"
+        },
+        {
+            "name": "mofarm",
+            "enabled": "true"
+        },
+        {
+            "name": "moindustry",
+            "enabled": "true"
+        },
+        {
+            "name": "mopower",
+            "enabled": "true"
+        },
+        {
+            "name": "motrans",
+            "enabled": "true"
+        },
+        {
+            "name": "tankwerkz",
+            "enabled": "true"
+        },
+        {
+            "name": "tree_collision",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_engines",
+            "enabled": "true"
+        },
+        {
+            "name": "yi_pfw",
+            "enabled": "true"
+        }
+    ]
+}

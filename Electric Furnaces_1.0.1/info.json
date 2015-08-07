@@ -1,0 +1,8 @@
+{
+	"name": "Electric Furnaces",
+	"version": "1.0.1",
+	"title": "Electric Furnaces",
+	"author": "GotLag",
+	"description": "Adds an electric version of the stone furnace and an upgraded electric furnace.",
+	"dependencies": ["base >= 0.12.00"]
+}

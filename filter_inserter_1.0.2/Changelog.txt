@@ -1,0 +1,34 @@
+Version History
+
+1.0.2
+*Fixed migrations. 
+*Added side inserters addon for if you are playing with the Side inserters Mod.
+*Add-on is enabled via config.  Set to true for Filter Side Inserters.  
+*Disabled smart inserter technology change for mod compatibility.    
+
+1.0.1
+*Updated for Factorio 0.12.0
+*Smart inserter is now unlocked by circuit-network technology being researched.
+
+1.0.0
+*Fixed Fast Inserter texture.  It now looks like other Inserters.
+	-It just bothered me so much had to fix the texture.
+*deleted an unused folder.
+*Updated Localization around.  Had some useless stuff in it.  
+*Updated data.lua  Had some useless stuff in it.  
+*This is the Full version
+
+
+Beta Version History
+
+0.0.3
+*better textures
+*balanced power usage for Filter Inserter.  
+*added this Changelog.txt
+
+0.0.2
+*change blue science recipe so assembly lines do not break.  
+*recipe requires Filter Inserter in place of Smart Inserter.  
+*added Credits.txt
+
+0.0.1

@@ -1,0 +1,1 @@
+require("prototypes.assembly-updates")

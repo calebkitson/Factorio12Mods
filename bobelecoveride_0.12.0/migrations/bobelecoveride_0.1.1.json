@@ -1,0 +1,9 @@
+{
+  "item":
+  [
+    ["basic-circuit-board", "electronic-circuit"],
+    ["electronic-circuit-board", "advanced-circuit"],
+    ["electronic-processing-board", "processing-unit"]
+  ]
+}
+

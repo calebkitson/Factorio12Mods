@@ -1,0 +1,9 @@
+{
+  "name": "ExtraFluidStorage",
+  "version": "1.0.0",
+  "title": "Extra Fluid Storage",
+  "author": "Ronoman & Cheezmagic",
+  "homepage": "loganlemieux.com",
+  "dependencies": ["base >= 0.12"],
+  "description": "Mod that adds better fluid handling"
+}

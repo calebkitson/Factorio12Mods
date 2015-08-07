@@ -1,0 +1,10 @@
+
+{
+  "name": "LogicBelt",
+  "version": "0.1.1",
+  "title": "Logic Belt",
+  "author": "Ty94",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=91&t=14007",
+  "description": "Belts that can interact with the Logistic System",
+  "dependencies": ["base >= 0.12.0", "? 5dim_transport >= 0.0.1"]
+}

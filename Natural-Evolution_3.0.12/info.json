@@ -1,0 +1,10 @@
+{
+  "name": "Natural-Evolution",
+  "version": "3.0.12",
+  "title": "Natural-Evolution",
+  "author": "TheSAguy",
+  "contact": "vvwmisc@hotmail.com",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=91&t=13562&p",
+  "description": "All things Alien! Manages Evolution, Biter/Spitters & Enemy Expansion...",
+  "dependencies": ["base >= 0.12", "? bobenemies >= 0.12.0", "? MAIN-DyTech-War >= 1.1.0"]
+}

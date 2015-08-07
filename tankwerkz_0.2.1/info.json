@@ -1,0 +1,10 @@
+
+{
+  "name": "tankwerkz",
+  "version": "0.2.1",
+  "title": "Tankwerkz Ltd",
+  "author": "thegreyman",
+  "homepage": "http://www.factorioforums.com/forum/viewtopic.php?f=14&t=6751",
+  "description": "All tanks, all the time.",
+  "dependencies": ["base >= 0.12.1"]
+}

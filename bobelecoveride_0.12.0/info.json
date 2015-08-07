@@ -1,0 +1,10 @@
+{
+  "name": "bobelecoveride",
+  "version": "0.12.0",
+  "title": "Bob's Electronics overide mod",
+  "author": "Bobingabout",
+  "contact": "robertagius@hotmail.com",
+  "homepage": "http://www.destructivality.com",
+  "description": "Replaces the default game Electronics with those from Metals Chemicals and Intermediates mod in ALL recipes.",
+  "dependencies": ["base >= 0.12.0", "bobplates >= 0.12.0"]
+}

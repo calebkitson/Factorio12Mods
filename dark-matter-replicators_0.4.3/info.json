@@ -1,0 +1,9 @@
+{
+  "name": "dark-matter-replicators",
+  "version": "0.4.3",
+  "title": "Dark Matter Replicators",
+  "author": "TempiDrachen (earlier versions by jamupsi)",
+  "homepage": " ",
+  "description": "Adds replicators which can produce items using only electricity.  The existence of this version of Replicators is not meant to be disrespectful in any way to darkshadow1809 or doublespin.  Back when the replicators mod was first abandoned I made my own version based on my own preferences, and seeing what darkshadow1809 and doublespin have done with the mod inspired me to make even more changes.",
+  "dependencies": ["? CORE-DyTech-Core >= 1.2.0", "? MAIN-DyTech-Machine >= 1.1.0", "? Yuoki >= 0.2.31"]
+}

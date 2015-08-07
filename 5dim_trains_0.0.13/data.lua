@@ -1,0 +1,31 @@
+--Changes
+require("prototypes.changes")
+--Electric-pole
+require("prototypes.electric-pole")
+--Rails
+require("prototypes.rails-water")
+require("prototypes.rails-curve-water")
+require("prototypes.rails-energy")
+require("prototypes.rails-curve-energy")
+require("prototypes.rails-energy-water")
+require("prototypes.rails-curve-energy-water")
+--Accumulator
+require("prototypes.accumulator")
+--Locomotive
+require("prototypes.locomotive")
+--Gun wagon
+require("prototypes.gun-wagon")
+--Laser wagon
+require("prototypes.laser-wagon")
+--Roboport
+require("prototypes.roboport")
+--Active
+require("prototypes.active")
+--Pasive
+require("prototypes.passive")
+--Requester
+require("prototypes.requester")
+--Storage
+require("prototypes.storage")
+--Tech
+require("prototypes.tech")

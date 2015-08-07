@@ -1,0 +1,10 @@
+{
+  "name": "DynamicExpansion",
+  "version": "1.1.1",
+  "dependencies": ["base"],
+  "title": "Dynamic Expansion",
+  "author": "AlyxDeLunar",
+  "contact": "",
+  "homepage": "",
+  "description": "Improves (maybe) the biter expansion mechanics, adds some new states and hopefully makes it more engaging"
+}

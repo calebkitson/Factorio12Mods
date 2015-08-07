@@ -1,0 +1,5 @@
+--Code Help--
+kds71 - http://www.factorioforums.com/forum/viewtopic.php?f=25&t=13005
+
+--Consultants--
+Takezu - pointed out the unintended change in how blue science is crafted.
