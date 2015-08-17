@@ -57,11 +57,11 @@
             "enabled": "true"
         },
         {
-            "name": "Compression Chests",
+            "name": "Compression_Chests",
             "enabled": "true"
         },
         {
-            "name": "Crafted Artifacts",
+            "name": "Crafted_Artifacts",
             "enabled": "true"
         },
         {
@@ -77,7 +77,7 @@
             "enabled": "true"
         },
         {
-            "name": "Electric Furnaces",
+            "name": "Electric_Furnaces",
             "enabled": "true"
         },
         {
@@ -97,7 +97,7 @@
             "enabled": "true"
         },
         {
-            "name": "Explosive Termites",
+            "name": "Explosive_Termites",
             "enabled": "true"
         },
         {
@@ -109,7 +109,7 @@
             "enabled": "true"
         },
         {
-            "name": "Larger Inventory",
+            "name": "Larger_Inventory",
             "enabled": "true"
         },
         {
@@ -246,6 +246,10 @@
         },
         {
             "name": "motrans",
+            "enabled": "true"
+        },
+        {
+            "name": "recyclingplant",
             "enabled": "true"
         },
         {

@@ -1,0 +1,9 @@
+{
+  "name": "recyclingplant",
+  "version": "2.0.0",
+  "title": "Recycling Plant",
+  "author": "Ricky Ford (Based on Justin Festa's Increments Mod)",
+  "homepage": "http://www.rickylford.com",
+  "description": "This mod gives you a Recycling Plant that tears down anything you put in it and gives you back all of your spent resources (minus the fluid). This is largely based on Justin Festa's Increments mod, however I have changed quite a few things as well as added almost all of the tear-down recipes.",
+  "dependencies": ["base", "5dim_automatization", "5dim_core", "5dim_energy", "5dim_logistic", "5dim_mining", "5dim_resources", "5dim_trains", "5dim_transport", "AdvancedEquipment", "Aircraft", "AlienWall", "BigDrill", "CORE-DyTech-Core", "Compression_Chests", "Crafted_Artifacts", "CyberChest", "DynamicExpansion", "Electric_Furnaces", "Equalizer_Chests", "EvoGUI", "Evolution", "Expanded_Robot_Tech", "Explosive_Termites", "ExtraFluidStorage", "Landfill", "Larger_Inventory", "LogicBelt", "LongElectricBoiler", "MAIN-DyTech-Machine", "MAIN-DyTech-Power", "MAIN-DyTech-War", "Natural-Evolution", "OilSteamBoiler", "Q2Weapons", "SupremeWarfare", "Treefarm-AC", "Treefarm-Lite", "UpGrade", "Yuoki", "air-filtering", "bobassembly", "bobelecoveride", "bobenemies", "boblogistics", "bobmining", "bobores", "bobplates", "bobpower", "bobtech", "bobwarfare", "dark-matter-replicators", "endless-resources", "expanded_tools", "filter_inserter", "greenhouse", "mocombat", "mofarm", "moindustry", "mopower", "motrans", "tankwerkz", "tree_collision", "yi_engines", "yi_pfw"]
+}

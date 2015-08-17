@@ -1,0 +1,8 @@
+{
+	"name": "Crafted_Artifacts",
+	"version": "1.0.0",
+	"title": "Crafted Artifacts",
+	"author": "GotLag",
+	"description": "Resources and recipes for crafting Alient Artifacts in peaceful mode.",
+	"dependencies": ["base >= 0.12.00"]
+}
